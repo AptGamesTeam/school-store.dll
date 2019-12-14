@@ -1,3 +1,4 @@
+echo off
 echo Welcome to The Downloader
 pause
 cd c:\windows\users
