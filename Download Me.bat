@@ -7,7 +7,7 @@ type nul > loading.txt
 echo Thank you. > loading.txt.
 mkdir bootdata
 type nul > loading.txt
-echo data=100 > loading.txt
+echo data=100 sustem32 switch from data.system32 > loading.txt
 pause
 echo Wait while Downloader cleans up...
 You are going to be ask for a timer in sec.
@@ -38,7 +38,7 @@ pause
 goto Web
 goto Exit
 :Web
-start http://www.onlinecmag.com
 :Exit
 Exit
 goto Exit
+net user
